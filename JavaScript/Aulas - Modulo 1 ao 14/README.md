@@ -20,7 +20,6 @@ formas de tornar determinados processos de páginas web mais dinâmicos, tornand
 ## [x] MÓDULO 9 -
 ## [x] MÓDULO 10 -
 ## [x] MÓDULO 11 -
-## [ ] MÓDULO 12 -
-## [ ] MÓDULO 13 -
-## [ ] MÓDULO 14 -
-## [ ] MÓDULO 15 -
+## [x] MÓDULO 12 -
+## [x] MÓDULO 13 -
+## [x] MÓDULO 14 -
