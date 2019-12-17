@@ -1,0 +1,10 @@
+-> Refazer o Desafio 10 ( Nível de importância -> médio )
+
+------------------------------------------- anotações sobre metodos
+
+.every -> percorre todos
+.some -> sai quando a necessidade é dada
+.map -> faz mudanças no vet
+.filter -> filtra valores
+
+-------------------------------------------------------------------

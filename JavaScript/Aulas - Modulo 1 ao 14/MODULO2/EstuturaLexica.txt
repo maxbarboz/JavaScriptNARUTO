@@ -1,0 +1,15 @@
+[x] conjunto de regras para escrever nessa linguagem
+
+[x] case sensitive -> diferencia letras M de m
+
+[x] // comentário linha
+
+[x] /* multilinha */
+
+[x] literais  -> valores que não mudam, já existem na linguagem = "variaveis"
+
+[x] identificadores -> nomes = nomes de variáveis, por exemplo [a, z] [A, Z] [0, 9]
+
+[x] Qualquer caractere UNICODE -=-=-=-=-=-=-=-=-=- NÃO UTILIZAR
+
+[x] Palavras reservadas -> ex.: break, case, class, continue etc..
