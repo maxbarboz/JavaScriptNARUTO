@@ -6,6 +6,7 @@
 
 ( function(){
     "use strict";
+    
 /*
 Declare uma variável chamada `name` que receba seu primeiro nome.
 Mostre no console todas as letras do seu nome separadas, com a frase:
