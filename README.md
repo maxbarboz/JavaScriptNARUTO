@@ -27,9 +27,9 @@ Originalmente projetada para rodar no Netscape Navigator, ela tinha o propósito
 ## [x] MÓDULO 17 -
 ## [x] MÓDULO 18 -
 ## [x] MÓDULO 19 -
-## [ ] MÓDULO 20 -
-## [ ] MÓDULO 21 -
-## [ ] MÓDULO 22 -
+## [x] MÓDULO 20 -
+## [x] MÓDULO 21 -
+## [x] MÓDULO 22 -
 ## [ ] MÓDULO 23 -
 ## [ ] MÓDULO 24 -
 ## [ ] MÓDULO 25 -
