@@ -6,5 +6,4 @@ JavaScript é uma linguagem de programação que permite a você implementar ite
 
 <a> https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/O_que_e_JavaScript </a>
 
-![images](https://user-images.githubusercontent.com/55251002/71993457-e5d70f00-3215-11ea-82ba-b07eebaa6ac4.jpeg)
-
+![images](https://user-images.githubusercontent.com/55251002/71993594-1dde5200-3216-11ea-8fdf-8f082a2ff110.png)
