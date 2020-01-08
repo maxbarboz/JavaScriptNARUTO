@@ -1,35 +1,10 @@
 # JavaScriptNARUTO
 
-Estudo da linguagem JavaScript
-
 # Descrição
 
-Originalmente projetada para rodar no Netscape Navigator, ela tinha o propósito de oferecer aos desenvolvedores formas de tornar determinados processos de páginas web mais dinâmicos, tornando seu uso mais agradável.
+JavaScript é uma linguagem de programação que permite a você implementar itens complexos em páginas web — toda vez que uma página da web faz mais do que simplesmente mostrar a você informação estática — mostrando conteúdo que se atualiza em um intervalo de tempo, mapas interativos ou gráficos 2D/3D animados, etc. — você pode apostar que o JavaScript provavelmente está envolvido. É a terceira camada do bolo das tecnologias padrões da web, duas das quais (HTML e CSS) nós falamos com muito mais detalhes em outras partes da Área de Aprendizado.
 
-# MÓDULOS FEITOS
+<a> https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/O_que_e_JavaScript </a>
 
-## [x] MÓDULO 1 -
-## [x] MÓDULO 2 -
-## [x] MÓDULO 3 -
-## [x] MÓDULO 4 -
-## [x] MÓDULO 5 -
-## [x] MÓDULO 6 -
-## [x] MÓDULO 7 -
-## [x] MÓDULO 8 -
-## [x] MÓDULO 9 -
-## [x] MÓDULO 10 -
-## [x] MÓDULO 11 -
-## [x] MÓDULO 12 -
-## [x] MÓDULO 13 -
-## [x] MÓDULO 14 -
-## [x] MÓDULO 15 -
-## [x] MÓDULO 16 -
-## [x] MÓDULO 17 -
-## [x] MÓDULO 18 -
-## [x] MÓDULO 19 -
-## [x] MÓDULO 20 -
-## [x] MÓDULO 21 -
-## [x] MÓDULO 22 -
-## [ ] MÓDULO 23 -
-## [ ] MÓDULO 24 -
-## [ ] MÓDULO 25 -
+![images](https://user-images.githubusercontent.com/55251002/71993457-e5d70f00-3215-11ea-82ba-b07eebaa6ac4.jpeg)
+
